@@ -34,7 +34,7 @@ Substitua seu-email@gmail.com, sua-senha-do-email e email-do-destinatario@gmail.
 ## Uso
 Execute o script Python: `python metrics_report.py`
 Isso enviará um relatório de métricas por e-mail a cada hora.
-![Exemplo do relatório](https://imgur.com/a/Q56aqnd)
+![Exemplo do relatório](https://i.imgur.com/jyinWlL.png)
 
 ## Personalização
 Você pode personalizar o conteúdo e o estilo do relatório HTML editando o script `metrics_report.py`.
